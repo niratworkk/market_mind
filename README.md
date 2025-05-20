@@ -39,6 +39,6 @@
 
 ### 📍 Dealer Finder | 📦 Smart Bundling | 👤 Profile
 | Dealer Finder | Smart Bundling | Profile |
-|----------------|------------------|----------|
+|----------------|------------------|---------|
 | ![Dealer](gitupload/dealer.jpg) | ![Bundle](gitupload/bundle.jpg) | ![Profile](gitupload/profile.jpg) |
 
