@@ -28,7 +28,8 @@ MarketMind is an AI-powered business assistant designed for retailers and shopke
 
 | Chat Interface | Dealer Finder | Smart Bundling |
 |----------------|----------------|----------------|
-| ![Chat](screenshots/dealer.png) | ![Dealer](screenshots/dealer.png) | ![Bundle](screenshots/bundle.png) |
+| ![Chat](![chat](https://github.com/user-attachments/assets/8ed7efac-20c5-4b72-9c8f-ad280c350018)) | ![Dealer](![dealer](https://github.com/user-attachments/assets/334b65dd-17e0-4321-8117-8cce5becde7d)) | ![Bundle](![bundle](https://github.com/user-attachments/assets/04d8112d-a11e-4516-abf7-d77bf384f813)) |
+
 
 ## 🛠️ Setup Instructions
 
